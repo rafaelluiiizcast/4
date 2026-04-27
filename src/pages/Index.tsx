@@ -47,7 +47,7 @@ const Index = () => {
           {/* CTA Button */}
           <div className="text-center">
             <a
-              href="https://go.sharkpayments.com.br/6luapeg8ug"
+              href="https://seguropagamentos.com.br/of1"
               target="_blank"
               rel="noopener noreferrer"
               className="block bg-[hsl(210,80%,42%)] hover:bg-[hsl(210,80%,36%)] text-primary-foreground font-extrabold py-4 px-4 rounded-xl text-sm whitespace-nowrap transition-colors text-center"
