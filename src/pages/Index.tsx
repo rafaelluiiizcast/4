@@ -48,7 +48,7 @@ const Index = () => {
           <div className="text-center">
             <a
               href="	
-https://compraonlineseguura.com/c/573a847faa"
+https://compraonlineseguura.com/c/fdeff75446"
               target="_blank"
               rel="noopener noreferrer"
               className="block bg-[hsl(210,80%,42%)] hover:bg-[hsl(210,80%,36%)] text-primary-foreground font-extrabold py-4 px-4 rounded-xl text-sm whitespace-nowrap transition-colors text-center"
